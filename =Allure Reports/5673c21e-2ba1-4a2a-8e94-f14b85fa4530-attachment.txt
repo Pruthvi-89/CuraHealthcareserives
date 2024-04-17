@@ -1,0 +1,12 @@
+[32mINFO    [0m Test_LoginPage:test_Login.py:22 TestCase002 is started
+[32mINFO    [0m Test_LoginPage:test_Login.py:24 opening browser
+[32mINFO    [0m Test_LoginPage:test_Login.py:26 Going To url
+[32mINFO    [0m Test_LoginPage:test_Login.py:28 click On make Appoinment
+[32mINFO    [0m Test_LoginPage:test_Login.py:30 Enter Username
+[32mINFO    [0m Test_LoginPage:test_Login.py:32 Enter Password
+[32mINFO    [0m Test_LoginPage:test_Login.py:34 Click on Login Button
+[32mINFO    [0m Test_LoginPage:test_Login.py:36 Titile is visible
+[32mINFO    [0m Test_LoginPage:test_Login.py:38 Saving screenshot for passed Test case002
+[32mINFO    [0m Test_LoginPage:test_Login.py:40 click On Menu Button
+[32mINFO    [0m Test_LoginPage:test_Login.py:42 Click On Logout Button
+[32mINFO    [0m Test_LoginPage:test_Login.py:45 Test case 002 Is passed

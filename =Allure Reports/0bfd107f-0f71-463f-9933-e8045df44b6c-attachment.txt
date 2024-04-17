@@ -1,0 +1,24 @@
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:22 TestCase002 is started
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:24 opening browser
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:26 Going To url
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:36 click On make Appoinment
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:38 Enter Username
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:40 Enter Password
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:42 Click on Login Button
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:46 Page Titile-->CURA Healthcare Service
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:50 Click On Logout Button
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:36 click On make Appoinment
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:38 Enter Username
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:40 Enter Password
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:42 Click on Login Button
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:56 Page Titile--->CURA Healthcare Service
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:36 click On make Appoinment
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:38 Enter Username
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:40 Enter Password
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:42 Click on Login Button
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:56 Page Titile--->CURA Healthcare Service
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:36 click On make Appoinment
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:38 Enter Username
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:40 Enter Password
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:42 Click on Login Button
+[32mINFO    [0m Test_LoginPage:test_Login_DDT.py:56 Page Titile--->CURA Healthcare Service

@@ -1,0 +1,1 @@
+pytest  -v  -n=4  --html=Reports/CuraHealthCareReports.html   --browser Chrome   -m=regression 

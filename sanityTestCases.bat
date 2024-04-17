@@ -1,0 +1,1 @@
+pytest  -v -n=4  --html=Reports/CureHealthCareReports.html    --browser Chrome  -m=sanity 
